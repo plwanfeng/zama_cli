@@ -1,0 +1,7 @@
+{
+  "rpc_url": "https://rpc.sepolia.ethpandaops.io",
+  "contract_address": "0x3edf60dd017ace33a0220f78741b5581c385a1ba",
+  "gas_price": 20,
+  "gas_limit": 100000,
+  "interval": 3
+}
